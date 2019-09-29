@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/maialshagarin/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maialshagarin/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ *my name is mai yusuf , i am 24 years old , i graduated from factually of pharmacy sience, i wish i can be helpful for the warld*
+# growth mindset
+  it is to belive our self that our basic can be develop and improve through hard work .                                                                 
+**there is a three thing i do to keep my self in growth mindset**
+ 1. always i think no one born  learn how to do everything .
+ 2. to be done imprtant than perfect
+ 3. there is many pepole belive me so i should try
+ 
+ ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkSZRmWzm3omRBV-4C_-_Pun1L_u0ofDYA8wK-VBdzkSTlZEcG)
